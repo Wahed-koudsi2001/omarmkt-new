@@ -61,4 +61,7 @@ h2 {
     .privacy_policy .container {
         padding: 0 10px 50px;
     }
+    nav img {
+        width: 90px;
+    }
 }
